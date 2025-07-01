@@ -97,7 +97,7 @@ app.use((req,res,next) =>{
     res.locals.success = req.flash("success");
     res.locals.error = req.flash("error");
     res.locals.currUser = req.user || null;
-    console.log("Current User in middleware:", req.user);
+    // console.log("Current User in middleware:", req.user);
 
     next();
 });
