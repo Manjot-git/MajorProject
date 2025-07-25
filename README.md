@@ -60,7 +60,7 @@ A full-stack rental application where users can browse, list, and manage rental 
 If you found this project helpful or interesting:
 
 - ⭐ **Star this repository** on GitHub — it helps others discover it!
-- 🐛 Found a bug? [Open an issue](https://github.com/your-username/MajorProject/issues)
+- 🐛 Found a bug? [Open an issue](https://github.com/Manjot-git/MajorProject/issues)
 - 📥 Want to contribute? Pull requests are welcome!
 
 Thank you for checking out **NestPoint** 🙌
