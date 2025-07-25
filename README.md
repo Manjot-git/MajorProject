@@ -1,6 +1,12 @@
 # 🏠 NestPoint – Full-Stack Property Rental Web App (Airbnb Clone)
 
-A full-stack rental application where users can browse, list, and manage rental properties — inspired by Airbnb, built with Node.js, MongoDB, and EJS.
+A full-stack rental application where users can browse, list, and manage rental properties — inspired by Airbnb, built with MERN Stack.
+
+---
+
+## 🔗 📌Live Demo
+
+🌍 [Visit Live App](https://nestpoint.onrender.com)
 
 ---
 
@@ -31,6 +37,33 @@ A full-stack rental application where users can browse, list, and manage rental 
 
 ## 🖼️ Screenshots
 
+### 🏠 Home Page  
+![Home Page](./PICs-MajorProj/HomePage.png)
+
+### 🔐 Login Page  
+![Login Page](./PICs-MajorProj/Login%20Page.png)
+
+### 📝 Sign-Up Page  
+![SignUp Page](./PICs-MajorProj/SignUp%20Page.png)
+
+### ➕ Creating New Listing  
+![Creating New Listing](./PICs-MajorProj/Creating%20New%20Listing.png)
+
+### 🗺️ Map View  
+![Map View](./PICs-MajorProj/Map%20View.png)
+
+
+---
+
+## 🌟 Support This Project
+
+If you found this project helpful or interesting:
+
+- ⭐ **Star this repository** on GitHub — it helps others discover it!
+- 🐛 Found a bug? [Open an issue](https://github.com/your-username/MajorProject/issues)
+- 📥 Want to contribute? Pull requests are welcome!
+
+Thank you for checking out **NestPoint** 🙌
 
 
 
@@ -40,3 +73,6 @@ A full-stack rental application where users can browse, list, and manage rental 
 ```bash
 git clone https://github.com/Manjot-git/MajorProject.git
 cd nestpoint
+
+
+
