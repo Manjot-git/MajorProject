@@ -38,5 +38,5 @@ A full-stack rental application where users can browse, list, and manage rental 
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/manjot-git/majorproject.git
+git clone https://github.com/Manjot-git/MajorProject.git
 cd nestpoint
