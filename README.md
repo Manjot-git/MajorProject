@@ -1,4 +1,4 @@
-# 🏠 NestPoint – Full-Stack Property Rental Web App (Airbnb Clone)
+# 🏠 NestPoint – Full-Stack Property Rental Web App
 
 A full-stack rental application where users can browse, list, and manage rental properties — inspired by Airbnb, built with MERN Stack.
 
