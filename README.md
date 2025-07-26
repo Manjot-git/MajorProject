@@ -14,7 +14,7 @@ A full-stack rental application where users can browse, list, and manage rental 
 
 - **Frontend**: EJS, Bootstrap 5, HTML/CSS  
 - **Backend**: Node.js, Express.js  
-- **Database**: MongoDB, Mongoose  
+- **Database**: MongoDB, Mongoose ,☁️ Cloudinary
 - **Authentication**: Passport.js, bcrypt, express-session  
 - **Utilities**: connect-flash, method-override, ejs-mate  
 
@@ -25,6 +25,7 @@ A full-stack rental application where users can browse, list, and manage rental 
 - 🔐 **User Authentication** – Register, login, logout (Passport.js)
 - 🧑‍💼 **Role-Based Access** – Only owners can edit/delete their listings
 - 📄 **Listings CRUD** – Add, update, delete listings with validation
+- 🖼️ **Image Uploads** – Handled via Cloudinary for efficient storage & delivery
 - ⚠️ **Flash Messages** – Real-time feedback for user actions
 - 🧱 **Custom Middleware** – `isLoggedIn`, `isOwner` authorization checks
 - 🔁 **Redirect After Login** – Return to the intended page after login
